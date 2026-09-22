@@ -1,0 +1,2 @@
+{"id":"q001","question":"What is the main contribution of the sample paper?","gold_paper_ids":["sample-paper"],"gold_chunk_ids":["sample-paper_p1_c0"],"answer":"Replace this example with a labelled answer from your corpus.","type":"factual"}
+{"id":"q002","question":"Which paper discusses the baseline method?","gold_paper_ids":["sample-paper"],"gold_chunk_ids":[],"answer":"Replace this example after adding real papers.","type":"paper_lookup"}

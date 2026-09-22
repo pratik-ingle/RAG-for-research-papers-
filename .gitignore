@@ -1,0 +1,16 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+
+data/papers/*.pdf
+data/chunks.jsonl
+
+indices/*
+!indices/.gitkeep
+
+results/*
+!results/.gitkeep
